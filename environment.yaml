@@ -1,0 +1,20 @@
+name: tdt4195
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip:
+      - pip
+      - torch
+      - torchvision
+      - lightning
+      - numpy
+      - scipy
+      - matplotlib
+      - scikit-image
+      - jupyterlab
+      - ipykernel
+      - pillow
+      - tqdm
+      - pandas
