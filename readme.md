@@ -12,9 +12,9 @@ The purpous of the starter code is to enable you to test your code before submit
 
 All assignments are anounced on blackboard, and have the following delivery dates:
 
-1. Assignment 1: Friday October 18th, 23:59 PM
-2. Assignment 2 Friday November 1th ,23:59 PM
-3. Assignment 3: Friday November 15th, 23:59 PM
+1. Assignment 1: Friday October 25th, 23:59 PM
+2. Assignment 2 Friday November 8th ,23:59 PM
+3. Assignment 3: Friday November 22th, 23:59 PM
 
 The starting source code for each assignment will be published during the semester.
 
